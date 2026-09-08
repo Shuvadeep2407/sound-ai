@@ -1,0 +1,8 @@
+# Core dependencies (already installed on your machine).
+numpy
+scipy
+scikit-learn
+joblib
+
+# Optional: live microphone detection.
+# sounddevice
